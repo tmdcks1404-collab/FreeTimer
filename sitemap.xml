@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/1-minute-timer.html</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/3-minute-timer.html</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/5-minute-timer.html</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/10-minute-timer.html</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/15-minute-timer.html</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/20-minute-timer.html</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/25-minute-timer.html</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/30-minute-timer.html</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/45-minute-timer.html</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/60-minute-timer.html</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/pomodoro-timer.html</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/privacy.html</loc></url><url><loc>https://2b88a914-free-timer.tmdcks1404.workers.dev/contact.html</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/1-minute-timer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/3-minute-timer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/5-minute-timer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/10-minute-timer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/15-minute-timer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/20-minute-timer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/25-minute-timer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/30-minute-timer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/45-minute-timer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/60-minute-timer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/pomodoro-timer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/privacy.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freetimer.tmdcks1404.workers.dev/contact.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
